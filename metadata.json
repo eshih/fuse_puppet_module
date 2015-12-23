@@ -1,0 +1,14 @@
+{
+  "name": "user-fuse",
+  "version": "0.1.0",
+  "author": "eshih",
+  "summary": "Module to install, configure, and deploy fuse.",
+  "license": "Apache 2.0",
+  "source": "www.not-yet-set-up.com",
+  "project_page": "www.not-yet-set-up.com",
+  "issues_url": "www.not-yet-set-up.com",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
